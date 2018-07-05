@@ -7,4 +7,4 @@
 ## UI界面状态模型
 UI界面有以下状态：展示授权界面、展示筛选界面、展示潮玩界面、展示情侣约会界面、展示亲子体验界面、展示景点信息界面、展示地图界面、展示个人中心界面、展示订单界面、展示支付界面
 
-![image](s://github.com/software-design-project/Dashboard/blob/master/image/UI_state_model.jpg)
+![image](https://github.com/software-design-project/Dashboard/blob/master/image/UI_state_model.jpg)
