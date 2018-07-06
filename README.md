@@ -10,7 +10,7 @@
     - [6.3 Domain Model](./doc/domain_model.md)
     - [6.4 State Model](./doc/state_model.md)
     - [6.5 System Sequence Diagram](./doc/system_sequence_diagram.md)
-    - [6.6 Supplementary Requirements](./doc/supplementary_eequirements.md)
+    - [6.6 Supplementary Requirements](./doc/supplementary_requirements.md)
 - 7.Design
     - [7.1 UI Design](./doc/UI_design.md)
     - [7.2 Database Design](./doc/database_design.md)
