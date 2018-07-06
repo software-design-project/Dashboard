@@ -21,4 +21,4 @@
     - [8.1 Code Specification](./doc/code_specification.md)
     - [8.2 Rest API](./doc/rest_API.md)
     - [8.3 ECB](./doc/ECB.md)
-    - [8.4 README链接]https://github.com/software-design-project/Dashboard/blob/master/README.md)
+    - [8.4 README链接](https://github.com/software-design-project/Dashboard/blob/master/README.md)
