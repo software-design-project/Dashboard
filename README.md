@@ -1,4 +1,3 @@
-# Dashboard
 # DashBoard
 - [1.About](./doc/about.md)
 - [2.Team Profile](./doc/team_profile.md)
